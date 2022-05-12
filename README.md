@@ -3,8 +3,9 @@
 --
 적용 방법
 --
-디아블로 설치 폴더에 mods폴더 생성 후 이동 \
+디아블로 설치 폴더에 mods폴더 생성, 그 안에 Dobby폴더 생성 \
 ( 기본설정: C:\Program Files (x86)\Diablo II Resurrected\mods\Dobby ) \
+Dobby.mpq폴더를 Dobby폴더 내부에 이동 \
 디아블로2 게임 설정 -> 명령줄 인수 추가 -> -mod Dobby -txt 입력 (앞에 공백 한칸 추가)
 
 변경사항 
