@@ -12,8 +12,13 @@ Dobby2.mpq폴더를 Dobby2폴더 내부에 이동 \
 방법2 \
 C:\Program Files (x86)\Diablo II Resurrected 에서 \
 D2R.exe 우클릭 - 보내기 - 바탕화면에 바로가기 \
-대상 항목 맨 뒤에 -mod Dobby2 -txt추가
-
+대상 항목 맨 뒤에 -mod Dobby2 -txt추가\
+창고 공유탭 추가 기능
+정상 실행 후 오프라인 캐릭터 생성 후 종료\
+StashUnlockerExp.exe파일 실행 후 원하는 창고 탭 선택\
+Unlock 누르고 디아블로 세이브파일 경로 지정\
+(기본: C:\Users\pinkb\Saved Games\Diablo II Resurrected\mods\Dobby )\
+안되면 몇번 하고 실행하면 적용 완료
 
 변경사항 
 --
