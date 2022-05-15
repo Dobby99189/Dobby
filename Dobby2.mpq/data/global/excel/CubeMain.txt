@@ -279,3 +279,10 @@ CRAFTED ITEMS																																																																			
 유니크무기	1			0					3	weap,uni	r14	gpg					useitem				ethereal			1	1																																																																															0
 유니크뚜ᄁᅠᆼ	1			0					3	helm,uni	r14	gpg					useitem				ethereal			1	1																																																																															0
 유니크방패	1			0					3	shld,uni	r14	gpg					useitem				ethereal			1	1																																																																															0
+보석사용																																																																																																								0
+보석 종류별 2개씩 + 매직 링-> 유니크 링 뽑기	1			0					13	gpv,qty=2	gpb,qty=2	gpr,qty=2	gpy,qty=2	gpg,qty=2	gpw,qty=2	rin,mag	rin,uni		50	50																																																																																				0
+보석 종류별 2개씩 + 매직 아뮬-> 유니크 링 뽑기	1			0					13	gpv,qty=2	gpb,qty=2	gpr,qty=2	gpy,qty=2	gpg,qty=2	gpw,qty=2	amu,mag	amu,uni		50	50																																																																																				0
+퍼스컬6개 + 해당부위매직 -> 유니크랜덤뽑기																																																																																																								0
+																																																																																																								0
+갑옷	1			0					7	armo,mag	skz,qty=6						armo,uni		50	50																																																																																				0
+무기	1			0					7	weap,mag	skz,qty=6						weap,uni		50	50																																																																																				0
